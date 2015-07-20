@@ -6,6 +6,8 @@ This tutorial will walk you through building a simple Java SMS project that uses
 
 If you don't yet have a Sinch developer account, create one at [sinch.com/signup](https://www.sinch.com/dashboard/#/signup). Use the developer dashboard to create an app (you only need to input an app name), and take note of the app key and secret. 
 
+![java sms setup](img/new-app.png)
+
 ##Library for Base64 encoding
 
 You will need to download and add the commons codec library to your Eclipse project to encode your app key and secret. You can do so [here](http://commons.apache.org/proper/commons-codec/download_codec.cgi). In your project, create a **libs** folder at the same level as **src**, and move **commons-codec-1.10.jar** to this folder. Then, right-click the .jar file and click **build path --> add to build path**
