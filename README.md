@@ -1,3 +1,9 @@
+# Deprication Notice
+
+Please refer to [this updated tutorial](https://developers.sinch.com/docs/tutorial-java-send-sms?ref=haxor) to get started with Sinch SMS in Java.
+
+---
+
 #Send an SMS in Java
 
 This tutorial will walk you through building a simple Java SMS project that uses Sinch to send an SMS. You can find the finished project on our GitHub at [github.com/sinch/java-sms-tutorial](http://www.github.com/sinch/java-sms-tutorial).
